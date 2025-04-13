@@ -1,8 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/lyndurian/samples/main/",
-  "brazil": "instrumental/brazil.wav",
-  "senegal": "instrumental/senegal.wav",
-  "sri_lanka": "instrumental/sri_lanka.wav",
-  "thailand": "instrumental/thailand.wav",
-  "new_york": "instrumental/new_york.wav"
+  "brazil": "brazil.wav",
+  "senegal": "senegal.wav",
+  "sri_lanka": "sri_lanka.wav",
+  "thailand": "thailand.wav",
+  "new_york": "new_york.wav"
 }
